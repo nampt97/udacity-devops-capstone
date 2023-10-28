@@ -3,13 +3,13 @@ http://a7fc107d6227e435bbdcb554906f0fb6-1219523202.us-east-1.elb.amazonaws.com/
 
 ## Authors
 
-- [@tuanpa2295](https://www.github.com/tuanpa2295)
+- [@nampt97](https://www.github.com/nampt97)
 
 ## Badges
 
 
 ### CircleCI Status
-[![<CircleCI>](https://circleci.com/gh/tuanpa2295/udacity-cloud-devops-capstone.svg?style=svg)](https://github.com/tuanpa2295/udacity-cloud-devops-capstone)
+[![<CircleCI>](https://circleci.com/gh/nampt97/udacity-devops-capstone.svg?style=svg)](https://github.com/nampt97/udacity-devops-capstone)
 
 ### License
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
